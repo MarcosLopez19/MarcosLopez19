@@ -11,6 +11,6 @@
 ---
 <div>
   <h2>🛠️Skills:</h2>
-   <img src="![image](https://user-images.githubusercontent.com/99869440/213526735-677d521d-1403-4c81-add0-93e0d7d3bdc0.png)" title="" alt="" whidth="" height="40" />&nbsp;
+   <img src="https://user-images.githubusercontent.com/99869440/213526735-677d521d-1403-4c81-add0-93e0d7d3bdc0.png" title="" alt="" whidth="" height="40" />&nbsp;
 </div>
 
