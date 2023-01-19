@@ -4,3 +4,8 @@
 - 🌱 I’m currently learning Kotlin and Java, JavaFx, XOM and JAXB
 
 - 📫 How to reach me: marcoslopezsalvador19@gmail.com
+
+
+
+
+<h2>Skills:<h2>
