@@ -1,10 +1,10 @@
 <div>
-  ### Hi there 👋
+ ### Hola 👋
 
-  - 🔭 I’m currently working on In an application messaging and communication using the Koltin language, and in a Persistence app in fitxers with XOM and JAXB
-  - 🌱 I’m currently learning Kotlin and Java, JavaFx, XOM and JAXB
+  - 🔭 Actualmente estoy trabajando en En una aplicación de mensajería y comunicación usando el lenguaje Koltin, y en una aplicación de Persistencia en fitxers con XOM y JAXB
+  - 🌱 Actualmente estoy aprendiendo Kotlin y Java, JavaFx, XOM y JAXB
 
-  - 📫 How to reach me: marcoslopezsalvador19@gmail.com
+  - 📫 Como contactarme: marcoslopezsalvador19@gmail.com
 
 </div>
 
