@@ -1,10 +1,13 @@
 <div>
  ### Hola 👋
 
-  - 🔭 Actualmente estoy trabajando en En una aplicación de mensajería y comunicación usando el lenguaje Koltin, y en una aplicación de Persistencia en fitxers con XOM y JAXB
-  - 🌱 Actualmente estoy aprendiendo Kotlin y Java, JavaFx, XOM y JAXB
+  - 🔭 Soy un programador recién titulado en Desarollador de Aplicaciones Multiplataforma. Mi enfoque se centra en Java, JDBC, XOM y  JAXB, Hibernate, SQL, Springboot, kotlin, MongoDB,  firebase. Con experiencia en proyectos individuales y en equipo, he desarrollado habilidades en resolución de problemas, comunicación efectiva y adaptabilidad a nuevas tecnologías.
 
-  - 📫 Como contactarme: marcoslopezsalvador19@gmail.com
+Me apasiona el desarrollo de software y busco constantemente oportunidades para mejorar mis habilidades y mantenerme al día con las últimas tendencias tecnológicas. Soy un colaborador efectivo, con habilidades interpersonales sólidas y una mentalidad orientada a la calidad y la eficiencia.
+
+Busco un entorno dinámico donde pueda contribuir con ideas y aprender de profesionales en la industria. Estoy emocionado por las oportunidades de crecimiento y desarrollo profesional que me esperan como programador.
+
+  - 📫 Como contactarme: marcoslopezsalvador03@gmail.com
 
 </div>
 
